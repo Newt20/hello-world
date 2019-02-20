@@ -1,2 +1,3 @@
 # hello-world
-testing git..
+
+Git is turning out to be really interesting.
